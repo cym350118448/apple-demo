@@ -21,13 +21,14 @@ import ProductGrid from '@/components/ProductGrid.vue'
 import RecommendSection from '@/components/RecommendSection.vue'
 import AppFooter from '@/components/AppFooter.vue'
 </script>
-
-<style scoped>
+<style>
 body {
   margin: 0;
   font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
   background: #f5f5f7;
 }
+</style>
+<style scoped>
 .homepage-section{
   display: grid;
   grid-gap: 12px;
