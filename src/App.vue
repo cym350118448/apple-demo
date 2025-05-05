@@ -27,6 +27,21 @@ body {
   font-family: SF Pro Text,SF Pro Icons,Helvetica Neue,Helvetica,Arial,sans-serif;
   background: #f5f5f7;
 }
+@media screen and (max-width: 1.441e+06px) and (min-width: 1441px) {
+        #app {
+            --content-height: 580px;
+            --columns: 2;
+            --gutter-width: 12px;
+            --gutter-half-width: 6px;
+            --gutter-and-half-width: 18px;
+            --gutter-color: #fff;
+            --double-edge-border-width: 24px;
+            --edge-border-width: 12px;
+            --background-color: #f5f5f7;
+            --text-color: #1d1d1f;
+            --edge-border-width-fallback: 12px;
+        }
+    }
 </style>
 <style scoped>
 .homepage-section{
