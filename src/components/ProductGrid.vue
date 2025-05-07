@@ -82,43 +82,51 @@
 }
 .grid-mother {
   background-image: url('@/assets/hero_md25__ca4cocy2qlv6_large.png');
+  /* width: 50%; */
+  height: 580px;
+  /* background-size: 1262px 580px; */
+  background-repeat: no-repeat; 
   background-position: center;
-  background-repeat: no-repeat;
 }
 .grid-macbook{
   background-image: url('@/assets/promo_macbook_air_avail__e8ksaudoisey_large.jpg');
-  width: 1262px;
+  /* width: 50%; */
   height: 580px;
-  background-size: 1262px 580px;
-  background-repeat: no-repeat;
+  /* background-size: 1262px 580px; */
+  background-repeat: no-repeat; 
+  background-position: center;
 }
 .grid-ipad{
   background-image: url('@/assets/promo_ipad_air__bfbxzvw65c02_large.jpg');
-  width: 1262px;
+  /* width: 50%; */
   height: 580px;
-  background-size: 1262px 580px;
-  background-repeat: no-repeat;
+  /* background-size: 1262px 580px; */
+  background-repeat: no-repeat; 
+  background-position: center;
 }
 .grid-tradein{
   background-image: url('@/assets/promo_iphone_tradein__bugw15ka691e_large.jpg');
-  width: 1262px;
+  /* width: 50%; */
   height: 580px;
-  background-size: 1262px 580px;
+  /* background-size: 1262px 580px; */
   background-repeat: no-repeat; 
+  background-position: center;
 }
 .grid-carrier{
   background-image: url('@/assets/promo_carrier__e0izvxwqosgi_large.jpg');
-  width: 1262px;
+  /* width: 50%; */
   height: 580px;
-  background-size: 1262px 580px;
+  /* background-size: 1262px 580px; */
   background-repeat: no-repeat; 
+  background-position: center;
 }
 .grid-card{
   background-image: url('@/assets/promo_apple_card_gradient__f2e2582vf1u2_large.jpg');
-  width: 1262px;
+  /* width: 50%; */
   height: 580px;
-  background-size: 1262px 580px;
+  /* background-size: 1262px 580px; */
   background-repeat: no-repeat; 
+  background-position: center;
 }
 .grid-item img {
   width: 120px;
@@ -192,7 +200,7 @@
   text-wrap-mode: nowrap;
 }
 .button-group {
-  display: flex;
+  display: inline-flex;
   justify-content: center;
   gap: 13px;
   margin-top: 17px;
