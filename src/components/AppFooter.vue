@@ -37,7 +37,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
 <p><span class="bold">T-Mobile iPhone&nbsp;SE&nbsp;3 Special Deal:</span> Monthly price (if shown) reflects net monthly payment, after application of T-Mobile trade-in credit applied over 24 months with purchase of an iPhone&nbsp;SE&nbsp;3 and trade-in of eligible smartphone. Receive credit with purchase of an iPhone&nbsp;SE&nbsp;3 of $579 or $400 for customers on a Go5G Next or Go5G Plus plan (based upon the model and condition of your trade-in smartphone); or $300 or $150 for customers on a Go5G, TMO ONE, TMO ONE Plus, Magenta, Magenta MAX, or Magenta Plus plan (based upon the model and condition of your trade-in smartphone). Offer excludes customers on Go5G Next First Responder, Go5G Plus First Responder, Go5G Next Military, Go5G Plus Military, Go5G Next 55, and Go5G Plus 55 plans. Max bill credits will not exceed the cost of the device. Credit comprised of (i) Apple instant trade-in credit at checkout and (ii) T-Mobile monthly bill credits applied over 24 months. Allow 2 bill cycles from valid submission and validation of trade-in. Tax on pre-credit price due at sale. Limited-time offer; subject to change. Qualifying credit, data plan, and trade-in in good condition required. Max 4 promotional offers on any iPhone per account. May not be combinable with some offers or discounts. Activation required. <span class="bold">Contact T-Mobile before cancelling service to continue remaining bill credits on current device, or credits stop &amp; balance on required finance agreement is&nbsp;due.</span></p>
 </span>
 </li>
-						<li><span id="footnote-3" class="tax-holiday-legal-hide">3. Trade‑in values will vary based on the condition, year, and configuration of your eligible trade‑in device. Not all devices are eligible for credit. You must be at least the age of majority to be eligible to trade in for credit or for an Apple&nbsp;Gift&nbsp;Card. Trade‑in value may be applied toward qualifying new device purchase, or added to an Apple&nbsp;Gift&nbsp;Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In‑store trade‑in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in‑store and online trade‑in. Some stores may have additional requirements. Apple or its trade‑in partners reserve the right to refuse, cancel, or limit quantity of any trade‑in transaction for any reason. More details are available from Apple’s trade-in partner for trade‑in and recycling of eligible devices. Restrictions and limitations may&nbsp;apply.</span>
+						<li><span id="footnote-3" class="tax-holiday-legal-hide">3. Trade‑in values will vary based on the condition, year, and configuration of your eligible trade‑in device. Not all devices are eligible for credit. You must be at least the age of majority to be eligible to trade in for credit or for an Apple&nbsp;Gift&nbsp;Card. Trade‑in value may be applied toward qualifying new device purchase, or added to an Apple&nbsp;Gift&nbsp;Card. Actual value awarded is based on receipt of a qualifying device matching the description provided when estimate was made. Sales tax may be assessed on full value of a new device purchase. In‑store trade‑in requires presentation of a valid photo ID (local law may require saving this information). Offer may not be available in all stores, and may vary between in‑store and online trade‑in. Some stores may have additional requirements. Apple or its trade‑in partners reserve the right to refuse, cancel, or limit quantity of any trade‑in transaction for any reason. More details are available from Apple's trade-in partner for trade‑in and recycling of eligible devices. Restrictions and limitations may&nbsp;apply.</span>
 </li>
 						<li>To access and use all Apple&nbsp;Card features and products available only to Apple&nbsp;Card users, you must add Apple&nbsp;Card to Wallet on an iPhone or iPad that supports and has the latest version of iOS or iPadOS. Apple&nbsp;Card is subject to credit approval, available only for qualifying applicants in the United States, and issued by Goldman Sachs Bank USA, Salt Lake City Branch. </li>
 						<li>If you reside in the U.S. territories, please call Goldman Sachs at 877-255-5923 with questions about Apple&nbsp;Card.</li>
@@ -53,23 +53,166 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
         </section>
       </div>
       <div class="footer-links">
-        <a href="#">Shop and Learn</a>
-        <a href="#">Apple Store</a>
-        <a href="#">For Business</a>
-        <a href="#">Apple Values</a>
-        <a href="#">About Apple</a>
-        <a href="#">Privacy Policy</a>
-        <a href="#">Terms of Use</a>
-        <a href="#">Sales and Refunds</a>
-        <a href="#">Legal</a>
-        <a href="#">Site Map</a>
+        <div>
+          <div>
+            <h3><span class="footer-title">Shop and Learn</span></h3>
+              <ul>
+                <li class="footer-item">Store</li>
+                <li class="footer-item">Mac</li>
+                <li class="footer-item">iPad</li>
+                <li class="footer-item">iPhone</li>
+                <li class="footer-item">Watch</li>
+                <li class="footer-item">Vision</li>
+                <li class="footer-item">Airpods</li>
+                <li class="footer-item">TV & Home</li>
+                <li class="footer-item">AirTag</li>
+                <li class="footer-item">Accessories</li>
+                <li class="footer-item">Gift Cards</li>
+              </ul>
+          </div>
+          <div>
+            <h3><span class="footer-title">Apple Wallet</span></h3>
+              <ul>
+                <li class="footer-item">Wallet</li>
+                <li class="footer-item">Apple Card</li>
+                <li class="footer-item">Apple Pay</li>
+                <li class="footer-item">Apple Cash</li>
+              </ul>
+          </div>
+        </div>
+        <div>
+          <div>
+            <h3><span class="footer-title">Account</span></h3>
+              <ul>
+                <li class="footer-item">Manage Your Apple Account</li>
+                <li class="footer-item">Apple Store Account</li>
+                <li class="footer-item">iCloud.com</li>
+              </ul>
+          </div>
+          <div>
+            <h3><span class="footer-title">Entertainment</span></h3>
+              <ul>
+                <li class="footer-item">Apple One</li>
+                <li class="footer-item">Apple TV+</li>
+                <li class="footer-item">Apple Music</li>
+                <li class="footer-item">Apple Arcade</li>
+                <li class="footer-item">Apple Fitness+</li>
+                <li class="footer-item">Apple News+</li>
+                <li class="footer-item">Apple Podcasts</li>
+                <li class="footer-item">Apple Books</li>
+                <li class="footer-item">App Store</li>
+              </ul>
+          </div>
+        </div>
+        <div>
+          <h3><span class="footer-title">Apple Store</span></h3>
+              <ul>
+                <li class="footer-item">Find a Store</li>
+                <li class="footer-item">Genius Bar</li>
+                <li class="footer-item">Today at Apple</li>
+                <li class="footer-item">Group Reservations</li>
+                <li class="footer-item">Apple Camp</li>
+                <li class="footer-item">Apple Store App</li>
+                <li class="footer-item">Certified Refurbished</li>
+                <li class="footer-item">Apple Trade In</li>
+                <li class="footer-item">Financing</li>
+                <li class="footer-item">Carrier Deals at Apple</li>
+                <li class="footer-item">Order Status</li>
+                <li class="footer-item">Shopping Help</li>
+              </ul>
+        </div>
+        <div>
+          <div>
+            <div>
+              <h3><span class="footer-title">For Business</span></h3>
+                <ul>
+                  <li class="footer-item">Apple and Business</li>
+                  <li class="footer-item">Shop for Business</li>
+                </ul>
+            </div>
+            <div>
+              <h3><span class="footer-title">For Education</span></h3>
+                <ul>
+                  <li class="footer-item">Apple and Education</li>
+                  <li class="footer-item">Shop for K-12</li>
+                  <li class="footer-item">Shop for College</li>
+                </ul>
+            </div>
+            <div>
+              <h3><span class="footer-title">For Healthcare</span></h3>
+                <ul>
+                  <li class="footer-item">Apple in Healthcare</li>
+                  <li class="footer-item">Mac in Healthcare</li>
+                  <li class="footer-item">Health on Apple Watch</li>
+                  <li class="footer-item">Health Records on iPhone and iPad</li>
+                </ul>
+            </div>
+            <div>
+              <h3><span class="footer-title">For Government</span></h3>
+                <ul>
+                  <li class="footer-item">Shop for Government</li>
+                  <li class="footer-item">Shop for Veterans and Military</li>
+                </ul>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div>
+            <div>
+              <h3><span class="footer-title">Apple Values</span></h3>
+                <ul>
+                  <li class="footer-item">Accessibility</li>
+                  <li class="footer-item">Education</li>
+                  <li class="footer-item">Environment</li>
+                  <li class="footer-item">Inclusion and Diversity</li>
+                  <li class="footer-item">Privacy</li>
+                  <li class="footer-item">Racial Equity and Justice</li>
+                  <li class="footer-item">Supply Chain</li>
+                </ul>
+            </div>
+            <div>
+              <h3><span class="footer-title">About Apple</span></h3>
+                <ul>
+                  <li class="footer-item">Newsroom</li>
+                  <li class="footer-item">Apple Leadership</li>
+                  <li class="footer-item">Career Opportunities</li>
+                  <li class="footer-item">Investors</li>
+                  <li class="footer-item">Ethics & Compliance</li>
+                  <li class="footer-item">Events</li>
+                  <li class="footer-item">Contact Apple</li>
+                </ul>
+            </div>
+          </div>
+        </div>
       </div>
+    <div class="ac-gf-footer-shop">
+			More ways to shop: <a href="/retail/" data-analytics-title="find an apple store">Find an Apple Store</a> or <a href="https://locate.apple.com/" data-analytics-title="other retailers or resellers" data-analytics-exit-link="">other retailer</a> near you. <span class="nowrap">Or call <a href="tel:1-800-692-7753">1-800-MY-APPLE</a> (1-800-692-7753).</span>
+    </div>      
+    <div class="footer-end">
       <div class="footer-copyright">
         Copyright © 2025 Apple Inc. All rights reserved.
       </div>
+        <ul class="ac-gf-footer-legal-links" role="list">
+          <li class="ac-gf-footer-legal-links-item" role="listitem">
+            <a class="ac-gf-footer-legal-link" href="/legal/privacy/" data-analytics-title="privacy policy">Privacy Policy</a>
+          </li>
+          <li class="ac-gf-footer-legal-links-item" role="listitem">
+            <a class="ac-gf-footer-legal-link" href="/legal/internet-services/terms/site.html" data-analytics-title="terms of use">Terms of Use</a>
+          </li>
+          <li class="ac-gf-footer-legal-links-item" role="listitem">
+            <a class="ac-gf-footer-legal-link" href="/us/shop/goto/help/sales_refunds" data-analytics-title="sales and refunds">Sales and Refunds</a>
+          </li>
+          <li class="ac-gf-footer-legal-links-item" role="listitem">
+            <a class="ac-gf-footer-legal-link" href="/legal/" data-analytics-title="legal">Legal</a>
+          </li>
+          <li class="ac-gf-footer-legal-links-item" role="listitem">
+            <a class="ac-gf-footer-legal-link" href="/sitemap/" data-analytics-title="site map">Site Map</a>
+          </li>
+        </ul>
       <div class="footer-country">
         United States
       </div>
+    </div>
     </div>
   </footer>
 </template>
@@ -102,16 +245,52 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
   margin: 0;
 }
 
+.footer-title {
+  color: rgba(0, 0, 0, 0.88);
+  display: block;
+  font-size: 12px;
+  line-height: 1.3333733333;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-weight: 600;
+  margin-bottom: .8em;
+  margin-inline-end: 20px;
+  outline: none;
+}
+
+.footer-item {
+  display: block;
+  pointer-events: auto;
+  margin-bottom: .8em;
+}
+
+
+.bold {
+  color: var(--footer-link-color);
+  font-weight: bold;
+}
 .ac-gf-sosumi li {
   margin-bottom: 10px;
   line-height: 1.4;
 }
 
+.ac-gf-footer-shop a {
+  color: rgb(0, 102, 204);
+}
+
+.ac-gf-footer-shop {
+  max-height: 9999px;
+  margin-bottom: 8px;
+  margin-top: 19px;
+  padding-bottom: 19px;
+}
 .footer-links {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(5, 1fr);
   gap: 20px;
-  padding: 20px 0;
+  flex-basis: 25%;
+  font-family: "SF Pro Text", "Myriad Set Pro", "SF Pro Icons", "Apple Legacy Chevron", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 
 .footer-links a {
@@ -120,6 +299,27 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
   margin-bottom: 8px;
   font-size: 12px;
   display: block;
+}
+.footer-end {
+  display: flex;
+}
+.ac-gf-footer-legal-links {
+  margin-inline-end: 30px;
+  /* margin-top: 5px; */
+  list-style-type: none;
+}
+.ac-gf-footer-legal-links-item {
+  position: relative;
+  display: inline-block;
+  padding-top: 10px;
+  /* margin-bottom: 8px; */
+}
+.ac-gf-footer-legal-links-item a {
+  color: rgba(0, 0, 0, 0.72);
+  border-right: 1px solid rgba(0, 0, 0, 0.72);
+  margin-inline-end: 9px;
+  padding-inline-end: 9px;
+  text-decoration: none;
 }
 
 .footer-links a:hover {
@@ -135,7 +335,8 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
 .footer-country {
   color: #6e6e73;
   font-size: 12px;
-  margin-top: 8px;
+  padding-top: 20px;
+  /* position: absolute; */
 }
 
 @media (max-width: 768px) {
