@@ -56,7 +56,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
         <div>
           <div>
             <h3><span class="footer-title">Shop and Learn</span></h3>
-              <ul>
+              <ul class="footer-item-list">
                 <li class="footer-item">Store</li>
                 <li class="footer-item">Mac</li>
                 <li class="footer-item">iPad</li>
@@ -72,7 +72,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
           </div>
           <div>
             <h3><span class="footer-title">Apple Wallet</span></h3>
-              <ul>
+              <ul class="footer-item-list">
                 <li class="footer-item">Wallet</li>
                 <li class="footer-item">Apple Card</li>
                 <li class="footer-item">Apple Pay</li>
@@ -83,7 +83,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
         <div>
           <div>
             <h3><span class="footer-title">Account</span></h3>
-              <ul>
+              <ul class="footer-item-list">>
                 <li class="footer-item">Manage Your Apple Account</li>
                 <li class="footer-item">Apple Store Account</li>
                 <li class="footer-item">iCloud.com</li>
@@ -91,7 +91,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
           </div>
           <div>
             <h3><span class="footer-title">Entertainment</span></h3>
-              <ul>
+              <ul class="footer-item-list">
                 <li class="footer-item">Apple One</li>
                 <li class="footer-item">Apple TV+</li>
                 <li class="footer-item">Apple Music</li>
@@ -106,7 +106,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
         </div>
         <div>
           <h3><span class="footer-title">Apple Store</span></h3>
-              <ul>
+              <ul class="footer-item-list">
                 <li class="footer-item">Find a Store</li>
                 <li class="footer-item">Genius Bar</li>
                 <li class="footer-item">Today at Apple</li>
@@ -125,14 +125,14 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
           <div>
             <div>
               <h3><span class="footer-title">For Business</span></h3>
-                <ul>
+                <ul class="footer-item-list">
                   <li class="footer-item">Apple and Business</li>
                   <li class="footer-item">Shop for Business</li>
                 </ul>
             </div>
             <div>
               <h3><span class="footer-title">For Education</span></h3>
-                <ul>
+                <ul class="footer-item-list">
                   <li class="footer-item">Apple and Education</li>
                   <li class="footer-item">Shop for K-12</li>
                   <li class="footer-item">Shop for College</li>
@@ -140,7 +140,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
             </div>
             <div>
               <h3><span class="footer-title">For Healthcare</span></h3>
-                <ul>
+                <ul class="footer-item-list">
                   <li class="footer-item">Apple in Healthcare</li>
                   <li class="footer-item">Mac in Healthcare</li>
                   <li class="footer-item">Health on Apple Watch</li>
@@ -149,7 +149,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
             </div>
             <div>
               <h3><span class="footer-title">For Government</span></h3>
-                <ul>
+                <ul class="footer-item-list">
                   <li class="footer-item">Shop for Government</li>
                   <li class="footer-item">Shop for Veterans and Military</li>
                 </ul>
@@ -160,7 +160,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
           <div>
             <div>
               <h3><span class="footer-title">Apple Values</span></h3>
-                <ul>
+                <ul class="footer-item-list">
                   <li class="footer-item">Accessibility</li>
                   <li class="footer-item">Education</li>
                   <li class="footer-item">Environment</li>
@@ -172,7 +172,7 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
             </div>
             <div>
               <h3><span class="footer-title">About Apple</span></h3>
-                <ul>
+                <ul class="footer-item-list">
                   <li class="footer-item">Newsroom</li>
                   <li class="footer-item">Apple Leadership</li>
                   <li class="footer-item">Career Opportunities</li>
@@ -257,6 +257,12 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
   margin-bottom: .8em;
   margin-inline-end: 20px;
   outline: none;
+}
+
+.footer-item-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
 .footer-item {
