@@ -189,9 +189,10 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
 			More ways to shop: <a href="/retail/" data-analytics-title="find an apple store">Find an Apple Store</a> or <a href="https://locate.apple.com/" data-analytics-title="other retailers or resellers" data-analytics-exit-link="">other retailer</a> near you. <span class="nowrap">Or call <a href="tel:1-800-692-7753">1-800-MY-APPLE</a> (1-800-692-7753).</span>
     </div>      
     <div class="footer-end">
-      <div class="footer-copyright">
-        Copyright © 2025 Apple Inc. All rights reserved.
-      </div>
+      <div class="footer-end-left">
+        <div class="footer-copyright">
+          Copyright © 2025 Apple Inc. All rights reserved.
+        </div>
         <ul class="ac-gf-footer-legal-links" role="list">
           <li class="ac-gf-footer-legal-links-item" role="listitem">
             <a class="ac-gf-footer-legal-link" href="/legal/privacy/" data-analytics-title="privacy policy">Privacy Policy</a>
@@ -209,18 +210,19 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
             <a class="ac-gf-footer-legal-link" href="/sitemap/" data-analytics-title="site map">Site Map</a>
           </li>
         </ul>
-      <div class="footer-country">
-        United States
       </div>
+      <div class="footer-end-right footer-country">United States</div>
     </div>
     </div>
   </footer>
+
 </template>
 
 <script setup>
 </script>
 
 <style scoped>
+
 .footer {
   background: #f5f5f7;
   color: #6e6e73;
@@ -308,6 +310,11 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
 }
 .footer-end {
   display: flex;
+  border-top: 1px solid #d2d2d7;
+  justify-content: space-between;
+}
+.footer-end .footer-end-left{
+  display: flex;
 }
 .ac-gf-footer-legal-links {
   margin-inline-end: 30px;
@@ -328,12 +335,16 @@ Hearing&nbsp;Protection: The Hearing&nbsp;Protection feature works with AirPods&
   text-decoration: none;
 }
 
+.ac-gf-footer-legal-links-item:last-child a{
+  border-right: 0;
+}
+
 .footer-links a:hover {
   text-decoration: underline;
 }
 
 .footer-copyright {
-  border-top: 1px solid #d2d2d7;
+
   padding-top: 20px;
   margin-bottom: 8px;
 }

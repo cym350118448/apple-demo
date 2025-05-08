@@ -54,7 +54,7 @@
 <style scoped>
 .navbar {
   cursor: default;
-  margin: 0 -8px;
+  margin: 0 0px;
   width: 100%;
   height: 44px;
   display: flex;
