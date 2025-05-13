@@ -6,6 +6,7 @@
       <BannerIpad />
       <BannerIphone />
     </div>
+    <AdList />
     <ProductGrid />
     <RecommendSection />
     <AppFooter />
@@ -20,6 +21,7 @@ import BannerIphone from '@/components/BannerIphone.vue'
 import ProductGrid from '@/components/ProductGrid.vue'
 import RecommendSection from '@/components/RecommendSection.vue'
 import AppFooter from '@/components/AppFooter.vue'
+import AdList from '@/components/AdList.vue'
 </script>
 <style>
 body {
